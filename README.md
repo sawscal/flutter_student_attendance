@@ -22,3 +22,7 @@ Follow these steps to set up the project locally:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/student-attendance-app.git
+
+
+https://github.com/user-attachments/assets/a5f559b0-540d-4310-a29a-ec4a22ce8289
+
